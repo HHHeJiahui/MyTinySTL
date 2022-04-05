@@ -15,4 +15,3 @@ namespace mystl
 } // namespace mystl
 
 #endif // !MYTINYSTL_ALGORITHM_H_
-
